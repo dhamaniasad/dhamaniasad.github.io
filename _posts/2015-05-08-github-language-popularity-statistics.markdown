@@ -2,6 +2,7 @@
 published: true
 title: GitHub Language Popularity Statistics
 layout: post
+permalink: /blog/2014/11/04/github-language-popularity-statistics/
 ---
 I’ve been wanting to get an idea of the division between languages on
 GitHub for a while now. While there are some articles available on the
